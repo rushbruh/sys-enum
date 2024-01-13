@@ -1,7 +1,7 @@
 # sys-enum
 Simple Linux enumaration Tool
 
-#Instalation
+# Instalation
 
 git clone https://github.com/Nazmul8091/sys-enum.git
 chmod +x sys-enum.sh
