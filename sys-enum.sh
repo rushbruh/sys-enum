@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "$(figlet sys-enum)"
 curdir=$(hostname)
 karnel=$(uname -a)
 os=$(cat /usr/lib/os-release)
